@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week4.NaimaElKhattabi.EF", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week4.NaimaElKhattabi.WCF", "Week4.NaimaElKhattabi.WCF\Week4.NaimaElKhattabi.WCF.csproj", "{818BF176-C15B-4D30-BF4E-2811B0B73803}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week4.NaimaElKhattabi.API", "Week4.NaimaElKhattabi.API\Week4.NaimaElKhattabi.API.csproj", "{23C6C156-63BF-4F0B-A34D-8654BA1C2ABA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{818BF176-C15B-4D30-BF4E-2811B0B73803}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{818BF176-C15B-4D30-BF4E-2811B0B73803}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{818BF176-C15B-4D30-BF4E-2811B0B73803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C6C156-63BF-4F0B-A34D-8654BA1C2ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C6C156-63BF-4F0B-A34D-8654BA1C2ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C6C156-63BF-4F0B-A34D-8654BA1C2ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C6C156-63BF-4F0B-A34D-8654BA1C2ABA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

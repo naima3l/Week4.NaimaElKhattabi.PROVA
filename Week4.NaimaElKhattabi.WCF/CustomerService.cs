@@ -10,7 +10,6 @@ using Week4.NaimaElKhattabi.EF.Repositories;
 
 namespace Week4.NaimaElKhattabi.WCF
 {
-    // NOTE: You can use the "Rename" command on the "Refactor" menu to change the class name "Service1" in both code and config file together.
     public class CustomerService : ICustomerService
     {
         private readonly MainBL mainBusinessLayer;
